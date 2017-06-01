@@ -1,0 +1,36 @@
+body{
+  text-align:center;
+  font-size: 25;
+  background-image:url(4.jpg); 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header{
+    height: 305px;
+    
+    
+}
+
+li{
+    display: inline;
+    padding: 20px;
+}
+
+a{
+    font-size: 30px;
+    color:floralwhite;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+}
+
+img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 250px;
+    border:10px black solid;
+    border-radius: 40px;
+}
